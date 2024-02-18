@@ -114,11 +114,11 @@ header a:hover {
 
 /* Showcase */
 #showcase {
-    min-height: 700px;
+    min-height: 760px;
     /* background-image, background-repeat x-axis (of picture) y-axis (of picture, below y axis has been moved up 400 pixels)*/
     background-image: url(../img/showcase.jpg);
     background-size: cover;  /* Ensures background image covers the entire showcase. */
-    border-bottom: #2a2c2e 2px solid;
+    /* border-bottom: #2a2c2e 2px solid; */
     /* border-top: #2a2c2e 2px solid; */
     /* text-align: center;
     color: #ffffff; */
