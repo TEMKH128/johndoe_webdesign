@@ -3,7 +3,7 @@
 * Responsive Web Design project advertising a pseudonym web design company (Thus contains placeholder data).
 * Features a Home, About and Services page.
 ###
-### Technology/Explaination:
+### Technology/Tools:
 ##
 * Tools, Technologies Used: HTML, CSS, Responsive Web Design.
 ###
